@@ -1,0 +1,8 @@
+Git allows only one branch/only one repository to be checked out from the repository at a given moment in time.
+
+Git status is key - kepp checking your git status to make sure that everything is good
+
+Git makes discrete pictures of the changes that you make to a file - not full copies of the file inclusive of the changes
+
+The Head refers to the current file that is being worked on
+
