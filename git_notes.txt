@@ -1,3 +1,11 @@
+Notes on  git remotes:
+
+- setting up is not necessarily intuitive
+- I would like to double check my github account for password and security options
+- I am going to review git and githib on treeouse and code acadmey yo make sure I have the basics down before the Foundaitons II course
+
+
+
 Git allows only one branch/only one repository to be checked out from the repository at a given moment in time.
 
 Git status is key - kepp checking your git status to make sure that everything is good
