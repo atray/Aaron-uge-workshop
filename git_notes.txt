@@ -6,3 +6,17 @@ Git makes discrete pictures of the changes that you make to a file - not full co
 
 The Head refers to the current file that is being worked on
 
+git init: initializes a new empty git repo
+
+git log: shows history of commits
+
+git status: shows status of current git repe and suggests things to do
+git add - stage cahgnes for commits or adds them to the index
+
+git branch: creates a new branch
+
+git commit: takes snapshot of the current state of the code
+
+git checkout: switches branches
+
+got config: sets configuration values of git
