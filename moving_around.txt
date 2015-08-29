@@ -1,3 +1,5 @@
+#test for a change
+
 pwd
 cd
 history 10
@@ -18,13 +20,13 @@ cd Desktop/
 cd Applications
 cd /Users/Aaron
 ls -a
-ls - a 
+ls - a
 ls a
 ls
 ls -R
 ls -h
 ls -S
-ls -i 
+ls -i
 man ls
 ls -alt
 ls -rlt
@@ -38,7 +40,7 @@ cd /
 cd~/Downloads
 cd~/D
 cd~/Downloads/
-curl -fsSL http://git.io/QxUaOQ | sh  
+curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
 git config --global user.email 'aarontraymond@gmail.com'
 git config --global user.name 'Aaron Raymond'
